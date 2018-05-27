@@ -1,108 +1,261 @@
-[10:19:35] [User Authenticator #28/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[10:19:36] [Server thread/INFO]: UnaGeo[/71.125.13.123:48518] logged in with entity id 641271 at (-169.5, 92.0, 247.5)
-[10:19:36] [Server thread/INFO]: UnaGeo joined the game
-[11:08:25] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[11:08:25] [Server thread/INFO]: UnaGeo left the game
-[11:10:11] [User Authenticator #29/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[11:10:11] [Server thread/INFO]: UnaGeo[/71.125.13.123:48528] logged in with entity id 692952 at (-147.86870926439224, 84.0, 255.6370434234445)
-[11:10:11] [Server thread/INFO]: UnaGeo joined the game
-[11:22:57] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[11:22:57] [Server thread/INFO]: UnaGeo left the game
-[11:24:01] [User Authenticator #30/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[11:24:01] [Server thread/INFO]: UnaGeo[/71.125.13.123:49378] logged in with entity id 706184 at (-152.5309811409861, 84.0, 253.1525155727634)
-[11:24:01] [Server thread/INFO]: UnaGeo joined the game
-[12:35:23] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[12:35:23] [Server thread/INFO]: UnaGeo left the game
-[12:36:25] [User Authenticator #31/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[12:36:25] [Server thread/INFO]: UnaGeo[/71.125.13.123:49392] logged in with entity id 795021 at (-126.03714920176066, 84.0, 263.787395535895)
-[12:36:25] [Server thread/INFO]: UnaGeo joined the game
-[12:44:26] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[12:44:26] [Server thread/INFO]: UnaGeo left the game
-[12:46:22] [User Authenticator #32/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[12:46:23] [Server thread/INFO]: UnaGeo[/71.125.13.123:50102] logged in with entity id 806001 at (-194.21702181626517, 65.0, 418.2468536086741)
-[12:46:23] [Server thread/INFO]: UnaGeo joined the game
-[13:18:56] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[13:18:56] [Server thread/INFO]: UnaGeo left the game
-[13:20:19] [User Authenticator #33/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[13:20:19] [Server thread/INFO]: UnaGeo[/71.125.13.123:51002] logged in with entity id 836217 at (-162.02925681959874, 77.0, 250.61594039736303)
-[13:20:19] [Server thread/INFO]: UnaGeo joined the game
-[13:24:35] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[13:24:35] [Server thread/INFO]: UnaGeo left the game
-[13:39:46] [User Authenticator #34/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[13:39:46] [Server thread/INFO]: UnaGeo[/71.125.13.123:52034] logged in with entity id 841495 at (-147.6501038420727, 84.0, 253.60561156434915)
-[13:39:46] [Server thread/INFO]: UnaGeo joined the game
-[13:53:55] [Server thread/WARN]: UnaGeo moved too quickly! 135.53025722363878,2.0,-221.2629391317618
-[14:12:41] [Server thread/INFO]: UnaGeo tried to swim in lava
-[14:16:50] [Server thread/WARN]: UnaGeo moved too quickly! 135.0145609799231,2.0,-221.80924758329974
-[14:29:40] [Server thread/WARN]: UnaGeo moved too quickly! 135.6014931572133,2.0,-221.35790066534818
-[15:08:56] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[15:08:56] [Server thread/INFO]: UnaGeo left the game
-[15:48:56] [User Authenticator #35/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[15:48:56] [Server thread/INFO]: UnaGeo[/71.125.13.123:52528] logged in with entity id 897339 at (-283.0932816024428, 72.0, -237.9330765605159)
-[15:48:56] [Server thread/INFO]: UnaGeo joined the game
-[15:58:18] [Server thread/WARN]: UnaGeo moved too quickly! 135.54318789475568,2.0,-221.54976170952844
-[16:04:45] [Server thread/INFO]: UnaGeo burned to death
-[16:05:14] [Server thread/WARN]: UnaGeo moved too quickly! 134.85138128886732,2.0,-222.1450875196642
-[16:14:24] [Server thread/WARN]: UnaGeo moved too quickly! -135.42590626907466,-2.0,221.77409371900436
-[16:38:03] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[16:38:03] [Server thread/INFO]: UnaGeo left the game
-[16:40:29] [User Authenticator #36/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[16:40:30] [Server thread/INFO]: UnaGeo[/71.125.13.123:52538] logged in with entity id 932664 at (-147.20894750410244, 84.0, 259.57144075714837)
-[16:40:30] [Server thread/INFO]: UnaGeo joined the game
-[16:41:30] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[16:41:30] [Server thread/INFO]: UnaGeo left the game
-[16:43:40] [User Authenticator #37/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[16:43:40] [Server thread/INFO]: UnaGeo[/71.125.13.123:52750] logged in with entity id 933741 at (-147.773090910555, 84.0, 254.18532733338515)
-[16:43:40] [Server thread/INFO]: UnaGeo joined the game
-[16:51:16] [Server thread/WARN]: UnaGeo moved too quickly! 134.80000001192093,2.0,-222.21631731173363
-[17:17:29] [Server thread/INFO]: UnaGeo has completed the challenge [Subspace Bubble]
-[17:17:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8347ms behind, skipping 166 tick(s)
-[17:17:29] [Server thread/WARN]: UnaGeo moved too quickly! -1968.0776826689516,-21.0,-10519.133641026987
-[17:54:49] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[17:54:49] [Server thread/INFO]: UnaGeo left the game
-[19:50:06] [User Authenticator #38/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
-[19:50:06] [Server thread/INFO]: dsuarez[/192.168.0.113:53683] logged in with entity id 979557 at (-144.27761607823464, 93.0, 258.34905215332947)
-[19:50:06] [Server thread/INFO]: dsuarez joined the game
-[20:26:25] [Server thread/INFO]: dsuarez lost connection: Disconnected
-[20:26:25] [Server thread/INFO]: dsuarez left the game
-[20:44:15] [User Authenticator #39/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[20:44:15] [Server thread/INFO]: UnaGeo[/71.125.13.123:53030] logged in with entity id 1022733 at (-2248.168054018185, 93.0, -12019.352955943416)
-[20:44:15] [Server thread/INFO]: UnaGeo joined the game
-[21:17:20] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[21:17:20] [Server thread/INFO]: UnaGeo left the game
-[21:18:34] [User Authenticator #40/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[21:18:34] [Server thread/INFO]: UnaGeo[/71.125.13.123:53144] logged in with entity id 1043837 at (-2248.4790944278952, 88.0, -12020.277020248002)
-[21:18:34] [Server thread/INFO]: UnaGeo joined the game
-[21:45:52] [Server thread/WARN]: UnaGeo moved too quickly! 1968.010035451758,21.0,10519.0
-[21:49:37] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[21:49:37] [Server thread/INFO]: UnaGeo left the game
-[21:50:08] [User Authenticator #41/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[21:50:08] [Server thread/INFO]: UnaGeo[/71.125.13.123:53250] logged in with entity id 1067703 at (-266.30000001192093, 84.0, -624.1983079401617)
-[21:50:08] [Server thread/INFO]: UnaGeo joined the game
-[21:51:24] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[21:51:24] [Server thread/INFO]: UnaGeo left the game
-[21:51:58] [User Authenticator #42/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[21:51:58] [Server thread/INFO]: UnaGeo[/71.125.13.123:53258] logged in with entity id 1067913 at (-266.4524409620871, 81.0, -621.0483928596234)
-[21:51:58] [Server thread/INFO]: UnaGeo joined the game
-[21:54:13] [User Authenticator #43/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[21:54:13] [Server thread/INFO]: UnaGeo lost connection: You logged in from another location
-[21:54:13] [Server thread/INFO]: UnaGeo left the game
-[21:54:13] [Server thread/INFO]: UnaGeo[/71.125.13.123:53270] logged in with entity id 1068498 at (-287.6839846666305, 67.0, -411.77110340436667)
-[21:54:13] [Server thread/INFO]: UnaGeo joined the game
-[21:58:59] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[21:58:59] [Server thread/INFO]: UnaGeo left the game
-[22:02:52] [User Authenticator #44/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[22:02:52] [Server thread/INFO]: UnaGeo[/71.125.13.123:53300] logged in with entity id 1070575 at (-161.133695721289, 77.0625, 258.68053452719306)
-[22:02:52] [Server thread/INFO]: UnaGeo joined the game
-[22:10:08] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[22:10:08] [Server thread/INFO]: UnaGeo left the game
-[22:12:23] [User Authenticator #45/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[22:12:23] [Server thread/INFO]: UnaGeo[/71.125.13.123:54826] logged in with entity id 1075501 at (-149.03255767088277, 79.0, 253.01011453380647)
-[22:12:23] [Server thread/INFO]: UnaGeo joined the game
-[22:30:11] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[22:30:11] [Server thread/INFO]: UnaGeo left the game
-[22:41:19] [User Authenticator #46/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
-[22:41:19] [Server thread/INFO]: dsuarez[/192.168.0.113:55145] logged in with entity id 1100476 at (-103.46060169488244, 39.0, 386.7341913609821)
-[22:41:19] [Server thread/INFO]: dsuarez joined the game
-[23:14:54] [Server thread/INFO]: dsuarez lost connection: Disconnected
-[23:14:54] [Server thread/INFO]: dsuarez left the game
+[00:57:53] [Server thread/INFO]: UnaGeo lost connection: Timed out
+[00:57:53] [Server thread/INFO]: UnaGeo left the game
+[10:48:11] [User Authenticator #17/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
+[10:48:11] [Server thread/INFO]: dsuarez[/192.168.0.113:58106] logged in with entity id 511244 at (-199.59488584528876, 61.0, 345.49399696765937)
+[10:48:11] [Server thread/INFO]: dsuarez joined the game
+[10:49:58] [Server thread/INFO]: dsuarez lost connection: Disconnected
+[10:49:58] [Server thread/INFO]: dsuarez left the game
+[10:50:28] [User Authenticator #18/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
+[10:50:28] [Server thread/INFO]: dsuarez[/192.168.0.113:58118] logged in with entity id 513780 at (-202.06997183672317, 62.0, 411.5589553105344)
+[10:50:28] [Server thread/INFO]: dsuarez joined the game
+[10:52:41] [Server thread/INFO]: dsuarez lost connection: Disconnected
+[10:52:41] [Server thread/INFO]: dsuarez left the game
+[11:13:23] [User Authenticator #19/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
+[11:13:23] [Server thread/INFO]: dsuarez[/192.168.0.113:58458] logged in with entity id 516937 at (-193.4158671432082, 63.0, 413.4281033465559)
+[11:13:23] [Server thread/INFO]: dsuarez joined the game
+[11:24:35] [User Authenticator #20/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
+[11:24:35] [Server thread/INFO]: UnaGeo[/71.125.13.123:46326] logged in with entity id 532648 at (-2247.241427753666, 93.0, -12019.223537162761)
+[11:24:35] [Server thread/INFO]: UnaGeo joined the game
+[11:24:46] [Server thread/INFO]: <UnaGeo> whats up ya bastard
+[11:25:01] [Server thread/INFO]: <dsuarez> haha nothing just laughing at the messages you keep leaving me
+[11:25:24] [Server thread/INFO]: <UnaGeo> you keep building open ways into my home!
+[11:25:30] [Server thread/INFO]: <UnaGeo> i am super paranoid
+[11:25:36] [Server thread/INFO]: <UnaGeo> i dont want mobs getting in
+[11:25:44] [Server thread/INFO]: <dsuarez> true, i just don't get to finish and then i get distracted
+[11:26:11] [Server thread/INFO]: UnaGeo lost connection: Disconnected
+[11:26:11] [Server thread/INFO]: UnaGeo left the game
+[11:31:39] [User Authenticator #21/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
+[11:31:39] [Server thread/INFO]: UnaGeo[/71.125.13.123:46330] logged in with entity id 541306 at (-2248.2408017686444, 93.0, -12021.721457087664)
+[11:31:39] [Server thread/INFO]: UnaGeo joined the game
+[11:31:47] [Server thread/INFO]: <UnaGeo> sorry had to go do somethig quick
+[11:31:54] [Server thread/INFO]: <dsuarez> its cool
+[11:32:26] [Server thread/INFO]: <UnaGeo> you wanna come explore this mesa mine with me?
+[11:32:38] [Server thread/INFO]: <dsuarez> sure give me a sec
+[11:33:02] [Server thread/INFO]: <UnaGeo> its going to be a ~5 min run
+[11:33:14] [Server thread/INFO]: <UnaGeo> im already here
+[11:33:32] [Server thread/INFO]: <UnaGeo> the markers should be pretty clear in the nether
+[11:33:45] [Server thread/INFO]: <UnaGeo> there is a sign in the nether room i built showing the tunnel
+[11:33:50] [Server thread/INFO]: <dsuarez> cool
+[11:36:00] [Server thread/INFO]: <dsuarez> on my way
+[11:36:10] [Server thread/INFO]: <UnaGeo> feel free to grab a swiftness potion
+[11:37:12] [Server thread/INFO]: <dsuarez> where are they?
+[11:37:27] [Server thread/INFO]: <UnaGeo> in the chest in the nether once you go through the portal
+[11:37:41] [Server thread/WARN]: dsuarez moved too quickly! 135.0547472308879,2.0,-221.4420385095143
+[11:41:39] [Server thread/INFO]: <dsuarez> your crazy tunnels
+[11:43:58] [Server thread/INFO]: dsuarez lost connection: Disconnected
+[11:43:58] [Server thread/INFO]: dsuarez left the game
+[11:44:44] [User Authenticator #22/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
+[11:44:44] [Server thread/INFO]: dsuarez[/192.168.0.113:58598] logged in with entity id 567929 at (-289.47347467247164, 111.0, -1339.518160202639)
+[11:44:44] [Server thread/INFO]: dsuarez joined the game
+[11:45:15] [Server thread/INFO]: <UnaGeo> my tunnels are great
+[11:45:24] [Server thread/INFO]: dsuarez has completed the challenge [Subspace Bubble]
+[11:45:25] [Server thread/WARN]: dsuarez moved too quickly! -1968.0165600246773,-21.0,-10519.0
+[11:45:35] [Server thread/INFO]: <UnaGeo> subspace bubble?
+[11:45:46] [Server thread/INFO]: <dsuarez> what teh hell is all of this stuff?
+[11:45:51] [Server thread/INFO]: <dsuarez> also i have no idea
+[11:46:00] [Server thread/INFO]: <UnaGeo> what stuff?
+[11:46:08] [Server thread/INFO]: <dsuarez> these weird blocks
+[11:46:16] [Server thread/INFO]: <UnaGeo> stained terracotta
+[11:46:24] [Server thread/INFO]: <dsuarez> shit looks awesome
+[11:47:45] [Server thread/INFO]: <UnaGeo> like my southwest motif?
+[11:47:58] [Server thread/INFO]: <dsuarez> yeah it looks cool
+[11:48:15] [Server thread/INFO]: <UnaGeo> the patterns line up in the stained terracotta
+[11:48:28] [Server thread/INFO]: <dsuarez> dude you've done so much digging
+[11:48:34] [Server thread/INFO]: <UnaGeo> im always too lazy to place them correclty
+[11:48:39] [Server thread/INFO]: <dsuarez> haha
+[11:50:15] [Server thread/INFO]: <UnaGeo> i might try to go kill this enderman
+[11:50:19] [Server thread/INFO]: <dsuarez> good luck
+[11:50:26] [Server thread/INFO]: <UnaGeo> im wearing a pumpkin on my head so he doesn't flip out
+[11:50:35] [Server thread/INFO]: <dsuarez> haha that's a thing?
+[11:50:56] [Server thread/INFO]: <dsuarez> fucking bullshit
+[11:51:40] [Server thread/INFO]: <dsuarez> sweet you got a jugnle near by
+[11:51:48] [Server thread/INFO]: <dsuarez> you can tame cats and they keep creepers away
+[11:51:53] [Server thread/INFO]: <UnaGeo> oh really?
+[11:51:56] [Server thread/INFO]: <UnaGeo> didnt know that
+[11:53:12] [Server thread/INFO]: <UnaGeo> lemme go pee real quck then lets go to the mine
+[11:53:16] [Server thread/INFO]: <UnaGeo> brb
+[11:53:18] [Server thread/INFO]: <dsuarez> ha okay
+[11:53:19] [Server thread/INFO]: UnaGeo lost connection: Disconnected
+[11:53:19] [Server thread/INFO]: UnaGeo left the game
+[11:55:16] [User Authenticator #23/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
+[11:55:16] [Server thread/INFO]: UnaGeo[/71.125.13.123:46340] logged in with entity id 578906 at (-2247.5402243609346, 93.0, -12020.561163820075)
+[11:55:16] [Server thread/INFO]: UnaGeo joined the game
+[11:56:37] [Server thread/INFO]: <UnaGeo> lets do i
+[11:56:43] [Server thread/INFO]: <dsuarez> ...yes
+[11:57:02] [Server thread/INFO]: <dsuarez> hoyl shit that's awesome
+[11:57:57] [Server thread/INFO]: <UnaGeo> how u wanna do this
+[11:58:17] [Server thread/INFO]: <dsuarez> i usually just start going down until i hit a dead end and mine everything
+[11:58:26] [Server thread/INFO]: <UnaGeo> ok ill follow you
+[11:58:32] [Server thread/INFO]: <dsuarez> then on ym way back i put up dirt or sand indicating ive been there
+[11:59:08] [Server thread/INFO]: <dsuarez> sweet sweet free rail roads
+[11:59:23] [Server thread/INFO]: <UnaGeo> so much gold so high in the mesa
+[11:59:30] [Server thread/INFO]: <dsuarez> yeah ut's awesome
+[11:59:59] [Server thread/INFO]: <UnaGeo> nice
+[12:00:10] [Server thread/INFO]: <dsuarez> yeah it works really well because of the structure
+[12:00:16] [Server thread/INFO]: UnaGeo lost connection: Timed out
+[12:00:16] [Server thread/INFO]: UnaGeo left the game
+[12:00:34] [User Authenticator #24/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
+[12:00:34] [Server thread/INFO]: UnaGeo[/71.125.13.123:46344] logged in with entity id 584037 at (-2260.356551239333, 68.0, -11853.387833912699)
+[12:00:34] [Server thread/INFO]: UnaGeo joined the game
+[12:00:41] [Server thread/INFO]: <UnaGeo> wierd i timed out
+[12:00:46] [Server thread/INFO]: <dsuarez> indeed
+[12:03:49] [Server thread/INFO]: <dsuarez> have you seen any poison spiders?
+[12:04:53] [Server thread/INFO]: <UnaGeo> i was here yesterday
+[12:05:00] [Server thread/INFO]: <UnaGeo> there is a spawner over there
+[12:05:26] [Server thread/INFO]: <dsuarez> yeah this is where they spawn. in the thick spider webs
+[12:06:33] [Server thread/INFO]: <dsuarez> theres more
+[12:06:49] [Server thread/INFO]: <dsuarez> i dropped lava
+[12:06:52] [Server thread/INFO]: <UnaGeo> oh cool i didn't know hitting the webs with a shear
+[12:06:56] [Server thread/INFO]: <UnaGeo> dropped webs
+[12:07:10] [Server thread/INFO]: <dsuarez> that is awesome
+[12:07:12] [Server thread/INFO]: <UnaGeo> lol they keep trying to run at me
+[12:07:15] [Server thread/INFO]: <UnaGeo> and burning
+[12:07:41] [Server thread/INFO]: <UnaGeo> lol idiots
+[12:07:41] [Server thread/INFO]: <dsuarez> i fucking hate those things
+[12:07:43] [Server thread/INFO]: <dsuarez> haha
+[12:08:53] [Server thread/INFO]: <UnaGeo> so much gold
+[12:09:08] [Server thread/INFO]: <UnaGeo> follow me for a sec
+[12:09:24] [Server thread/INFO]: dsuarez has made the advancement [Take Aim]
+[12:09:31] [Server thread/INFO]: <UnaGeo> nice shot!
+[12:09:39] [Server thread/INFO]: <dsuarez> i wanted my lava back
+[12:10:03] [Server thread/INFO]: <dsuarez> fucking hell
+[12:10:20] [Server thread/INFO]: <UnaGeo> hey come help me clear this area
+[12:10:23] [Server thread/INFO]: <dsuarez> okay
+[12:15:51] [Server thread/INFO]: <dsuarez> there's gotta be diamond down there
+[12:17:03] [Server thread/INFO]: <dsuarez> so much gold
+[12:17:32] [Server thread/INFO]: <UnaGeo> yeah this is nuts
+[12:17:50] [Server thread/INFO]: <UnaGeo> im heading down that hole
+[12:17:58] [Server thread/INFO]: <dsuarez> be there in a sec
+[12:19:51] [Server thread/INFO]: <UnaGeo> wasn't much downthere
+[12:19:55] [Server thread/INFO]: <dsuarez> damn
+[12:23:30] [Server thread/INFO]: <dsuarez> theres so much gold that way
+[12:23:53] [Server thread/INFO]: <UnaGeo> lets go!
+[12:24:58] [Server thread/INFO]: <UnaGeo> you weren't kidding
+[12:25:22] [Server thread/INFO]: <dsuarez> this place is amazing
+[12:25:36] [Server thread/INFO]: <UnaGeo> yeah the long road here is worth it
+[12:25:41] [Server thread/INFO]: <dsuarez> hell yeah
+[12:26:56] [Server thread/INFO]: <dsuarez> you know about blocks of coal, right?
+[12:27:00] [Server thread/INFO]: <UnaGeo> ?
+[12:27:05] [Server thread/INFO]: <UnaGeo> oh yeah
+[12:27:09] [Server thread/INFO]: <dsuarez> sweet
+[12:29:11] [Server thread/INFO]: <dsuarez> alright
+[12:29:16] [Server thread/INFO]: <dsuarez> sadly i need to get on some house work
+[12:29:51] [Server thread/INFO]: <UnaGeo> me too i think
+[12:29:58] [Server thread/INFO]: <UnaGeo> im going to smelt all this stuff
+[12:32:43] [Server thread/INFO]: <dsuarez> that's kind of crazy we were never that deep
+[12:34:46] [Server thread/INFO]: <dsuarez> alright im back at the house
+[12:35:36] [Server thread/INFO]: <dsuarez> ill be back on later
+[12:35:38] [Server thread/INFO]: <dsuarez> peace
+[12:35:40] [Server thread/INFO]: dsuarez lost connection: Disconnected
+[12:35:40] [Server thread/INFO]: dsuarez left the game
+[12:48:38] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
+[12:48:38] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
+[12:48:38] [Server thread/INFO]: /ban <name> [reason ...]
+[12:48:38] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[12:48:38] [Server thread/INFO]: /banlist [ips|players]
+[12:48:38] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[12:48:38] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[12:48:38] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[12:48:38] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[12:49:07] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[12:49:10] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
+[12:49:10] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
+[12:49:10] [Server thread/INFO]: /ban <name> [reason ...]
+[12:49:10] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[12:49:10] [Server thread/INFO]: /banlist [ips|players]
+[12:49:10] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[12:49:10] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[12:49:10] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[12:49:10] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[12:49:21] [Server thread/INFO]: --- Showing help page 2 of 10 (/help <page>) ---
+[12:49:21] [Server thread/INFO]: /debug <start|stop>
+[12:49:21] [Server thread/INFO]: /defaultgamemode <mode>
+[12:49:21] [Server thread/INFO]: /deop <player>
+[12:49:21] [Server thread/INFO]: /difficulty <new difficulty>
+[12:49:21] [Server thread/INFO]: /effect <player> <effect> [seconds] [amplifier] [hideParticles] OR /effect <player> clear
+[12:49:21] [Server thread/INFO]: /enchant <player> <enchantment ID> [level]
+[12:49:21] [Server thread/INFO]: /entitydata <entity> <dataTag>
+[12:49:27] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[12:49:30] [Server thread/INFO]: --- Showing help page 3 of 10 (/help <page>) ---
+[12:49:30] [Server thread/INFO]: /execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <dataValue|-1|state|*> <command>
+[12:49:30] [Server thread/INFO]: /fill <x1> <y1> <z1> <x2> <y2> <z2> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+[12:49:30] [Server thread/INFO]: /function <name> [if <selector>|unless <selector>]
+[12:49:30] [Server thread/INFO]: /gamemode <mode> [player]
+[12:49:30] [Server thread/INFO]: /gamerule <rule name> [value]
+[12:49:30] [Server thread/INFO]: /give <player> <item> [amount] [data] [dataTag]
+[12:49:30] [Server thread/INFO]: /help [page|command name]
+[12:49:40] [Server thread/INFO]: --- Showing help page 4 of 10 (/help <page>) ---
+[12:49:40] [Server thread/INFO]: /kick <player> [reason ...]
+[12:49:40] [Server thread/INFO]: /kill [player|entity]
+[12:49:40] [Server thread/INFO]: /list
+[12:49:40] [Server thread/INFO]: /locate <feature>
+[12:49:40] [Server thread/INFO]: /me <action ...>
+[12:49:40] [Server thread/INFO]: /op <player>
+[12:49:40] [Server thread/INFO]: /pardon <name>
+[12:49:49] [Server thread/INFO]: --- Showing help page 5 of 10 (/help <page>) ---
+[12:49:49] [Server thread/INFO]: /pardon-ip <address>
+[12:49:49] [Server thread/INFO]: /particle <name> <x> <y> <z> <xd> <yd> <zd> <speed> [count] [mode] [player] [params]
+[12:49:49] [Server thread/INFO]: /playsound <sound> <source> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+[12:49:49] [Server thread/INFO]: /recipe <give|take> [player] <name|*>
+[12:49:49] [Server thread/INFO]: /reload
+[12:49:49] [Server thread/INFO]: /replaceitem <entity|block> ...
+[12:49:49] [Server thread/INFO]: /save-all [flush]
+[12:49:59] [Server thread/INFO]: --- Showing help page 6 of 10 (/help <page>) ---
+[12:49:59] [Server thread/INFO]: /save-off
+[12:49:59] [Server thread/INFO]: /save-on
+[12:49:59] [Server thread/INFO]: /say <message ...>
+[12:49:59] [Server thread/INFO]: /scoreboard <objectives|players|teams> ...
+[12:49:59] [Server thread/INFO]: /seed
+[12:49:59] [Server thread/INFO]: /setblock <x> <y> <z> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+[12:49:59] [Server thread/INFO]: /setidletimeout <minutes>
+[12:50:13] [Server thread/INFO]: [Server] hello george. This is god.
+[12:50:23] [Server thread/INFO]: --- Showing help page 7 of 10 (/help <page>) ---
+[12:50:23] [Server thread/INFO]: /setworldspawn [<x> <y> <z>]
+[12:50:23] [Server thread/INFO]: /spawnpoint [player] [<x> <y> <z>]
+[12:50:23] [Server thread/INFO]: /spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
+[12:50:23] [Server thread/INFO]: /stats <entity|block> ...
+[12:50:23] [Server thread/INFO]: /stop
+[12:50:23] [Server thread/INFO]: /stopsound <player> [source] [sound]
+[12:50:23] [Server thread/INFO]: /summon <entityname> [x] [y] [z] [dataTag]
+[12:50:34] [Server thread/INFO]: --- Showing help page 8 of 10 (/help <page>) ---
+[12:50:34] [Server thread/INFO]: /teleport <entity> <x> <y> <z> [<y-rot> <x-rot>]
+[12:50:34] [Server thread/INFO]: /tell <player> <private message ...>
+[12:50:34] [Server thread/INFO]: /tellraw <player> <raw json message>
+[12:50:34] [Server thread/INFO]: /testfor <player> [dataTag]
+[12:50:34] [Server thread/INFO]: /testforblock <x> <y> <z> <block> [dataValue|-1|state|*] [dataTag]
+[12:50:34] [Server thread/INFO]: /testforblocks <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [mode]
+[12:50:34] [Server thread/INFO]: /time <set|add|query> <value>
+[12:50:51] [Server thread/INFO]: There are 1/20 players online:
+[12:50:51] [Server thread/INFO]: UnaGeo
+[12:50:57] [Server thread/INFO]: --- Showing help page 9 of 10 (/help <page>) ---
+[12:50:57] [Server thread/INFO]: /title <player> title|subtitle|actionbar|clear|reset|times ...
+[12:50:57] [Server thread/INFO]: /toggledownfall
+[12:50:57] [Server thread/INFO]: /tp [target player] <destination player> OR /tp [target player] <x> <y> <z> [<yaw> <pitch>]
+[12:50:57] [Server thread/INFO]: /trigger <objective> <add|set> <value>
+[12:50:57] [Server thread/INFO]: /weather <clear|rain|thunder> [duration in seconds]
+[12:50:57] [Server thread/INFO]: /whitelist <on|off|list|add|remove|reload>
+[12:50:57] [Server thread/INFO]: /worldborder <set|center|damage|warning|get|add> ...
+[12:51:09] [Server thread/INFO]: --- Showing help page 10 of 10 (/help <page>) ---
+[12:51:09] [Server thread/INFO]: /xp <amount> [player] OR /xp <amount>L [player]
+[13:16:25] [Server thread/INFO]: UnaGeo lost connection: Timed out
+[13:16:25] [Server thread/INFO]: UnaGeo left the game
+[13:29:21] [User Authenticator #25/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
+[13:29:21] [Server thread/INFO]: UnaGeo[/71.125.13.123:46364] logged in with entity id 655533 at (-2248.0434268501203, 93.0, -12019.216781498308)
+[13:29:21] [Server thread/INFO]: UnaGeo joined the game
+[13:48:36] [Server thread/INFO]: UnaGeo lost connection: Disconnected
+[13:48:36] [Server thread/INFO]: UnaGeo left the game
+[14:50:28] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
+[14:50:28] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
+[14:50:28] [Server thread/INFO]: /ban <name> [reason ...]
+[14:50:28] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[14:50:28] [Server thread/INFO]: /banlist [ips|players]
+[14:50:28] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[14:50:28] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[14:50:28] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[14:50:28] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[14:50:29] [Server Shutdown Thread/INFO]: Stopping server
+[14:50:29] [Server Shutdown Thread/INFO]: Saving players
+[14:50:29] [Server Shutdown Thread/INFO]: Saving worlds
+[14:50:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[14:50:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[14:50:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
