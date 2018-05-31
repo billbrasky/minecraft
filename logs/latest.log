@@ -1,7 +1,6 @@
-[14:29:26] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[14:29:44] [Server Shutdown Thread/INFO]: Stopping server
-[14:29:44] [Server Shutdown Thread/INFO]: Saving players
-[14:29:44] [Server Shutdown Thread/INFO]: Saving worlds
-[14:29:44] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[14:29:44] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[14:29:44] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[07:59:37] [Server Shutdown Thread/INFO]: Stopping server
+[07:59:37] [Server Shutdown Thread/INFO]: Saving players
+[07:59:37] [Server Shutdown Thread/INFO]: Saving worlds
+[07:59:37] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[07:59:37] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[07:59:37] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end

@@ -305,9 +305,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2018-05-30 20:44:03 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2018-05-26 12:52:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-05-29 17:26:01 -0400"
     },
     "done": true
   },
@@ -357,8 +369,10 @@
     "criteria": {
       "cooked_mutton": "2018-05-13 07:03:25 -0400",
       "cooked_beef": "2018-05-13 13:50:59 -0400",
+      "baked_potato": "2018-05-29 17:47:46 -0400",
       "apple": "2018-05-04 21:43:14 -0400",
       "bread": "2018-05-04 21:24:52 -0400",
+      "beetroot": "2018-05-30 20:44:19 -0400",
       "cooked_rabbit": "2018-05-04 22:21:51 -0400",
       "cooked_chicken": "2018-05-13 06:50:27 -0400",
       "mushroom_stew": "2018-05-28 13:12:15 -0400",
@@ -435,6 +449,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-05-04 21:56:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2018-05-29 17:26:01 -0400"
     },
     "done": true
   },
@@ -581,6 +601,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2018-05-13 13:51:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2018-05-30 20:44:03 -0400"
     },
     "done": true
   },
@@ -1051,6 +1077,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2018-05-04 21:35:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-05-29 17:26:01 -0400"
     },
     "done": true
   },
@@ -1692,6 +1724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2018-05-29 17:26:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2018-05-05 20:38:49 -0400"
@@ -1743,6 +1781,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-05-20 23:33:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2018-05-29 17:26:01 -0400"
     },
     "done": true
   }
