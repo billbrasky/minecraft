@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2018-06-02 10:24:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2018-05-04 21:32:41 -0400"
@@ -371,6 +377,8 @@
       "cooked_beef": "2018-05-13 13:50:59 -0400",
       "baked_potato": "2018-05-29 17:47:46 -0400",
       "apple": "2018-05-04 21:43:14 -0400",
+      "spider_eye": "2018-06-01 21:18:40 -0400",
+      "melon": "2018-06-02 10:25:01 -0400",
       "bread": "2018-05-04 21:24:52 -0400",
       "beetroot": "2018-05-30 20:44:19 -0400",
       "cooked_rabbit": "2018-05-04 22:21:51 -0400",
@@ -401,6 +409,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2018-05-05 20:44:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2018-06-02 10:24:33 -0400"
     },
     "done": true
   },
@@ -1454,6 +1468,7 @@
       "savanna": "2018-05-04 21:42:35 -0400",
       "plains": "2018-05-04 21:23:07 -0400",
       "jungle_edge": "2018-05-27 15:01:07 -0400",
+      "jungle_hills": "2018-06-01 22:17:50 -0400",
       "savanna_rock": "2018-05-13 18:35:46 -0400",
       "taiga": "2018-05-13 13:55:09 -0400",
       "ocean": "2018-05-13 18:37:51 -0400",
@@ -1679,6 +1694,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2018-05-17 21:17:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2018-06-02 10:24:33 -0400"
     },
     "done": true
   },

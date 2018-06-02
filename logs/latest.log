@@ -1,6 +1,159 @@
-[07:59:37] [Server Shutdown Thread/INFO]: Stopping server
-[07:59:37] [Server Shutdown Thread/INFO]: Saving players
-[07:59:37] [Server Shutdown Thread/INFO]: Saving worlds
-[07:59:37] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[07:59:37] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[07:59:37] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[08:48:52] [User Authenticator #12/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
+[08:48:52] [Server thread/INFO]: dsuarez[/192.168.0.113:54993] logged in with entity id 544142 at (-2592.3049032138665, 61.0, -12473.919762897925)
+[08:48:52] [Server thread/INFO]: dsuarez joined the game
+[09:51:12] [Server thread/INFO]: dsuarez lost connection: Disconnected
+[09:51:12] [Server thread/INFO]: dsuarez left the game
+[10:22:24] [User Authenticator #13/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
+[10:22:24] [Server thread/INFO]: dsuarez[/192.168.0.113:55856] logged in with entity id 568062 at (-2592.2518384968935, 61.0, -12473.575810287331)
+[10:22:24] [Server thread/INFO]: dsuarez joined the game
+[10:49:52] [Server thread/INFO]: dsuarez lost connection: Disconnected
+[10:49:52] [Server thread/INFO]: dsuarez left the game
+[12:27:13] [User Authenticator #14/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
+[12:27:13] [Server thread/INFO]: UnaGeo[/71.125.13.123:49800] logged in with entity id 579092 at (-160.07332270310584, 93.0, 254.7063668962784)
+[12:27:13] [Server thread/INFO]: UnaGeo joined the game
+[12:40:00] [Server thread/INFO]: UnaGeo lost connection: Disconnected
+[12:40:00] [Server thread/INFO]: UnaGeo left the game
+[13:14:48] [User Authenticator #15/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
+[13:14:49] [Server thread/INFO]: UnaGeo[/71.125.13.123:50994] logged in with entity id 599706 at (-171.41098957846205, 76.0, 231.66582191565786)
+[13:14:49] [Server thread/INFO]: UnaGeo joined the game
+[13:24:07] [User Authenticator #16/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
+[13:24:07] [Server thread/INFO]: dsuarez[/192.168.0.113:56906] logged in with entity id 616811 at (-2531.300000011921, 25.0, -12637.300000011921)
+[13:24:07] [Server thread/INFO]: dsuarez joined the game
+[13:24:11] [Server thread/INFO]: <dsuarez> yo
+[13:24:21] [Server thread/INFO]: <UnaGeo> howdy
+[13:26:07] [Server thread/INFO]: <UnaGeo> i think im ready to run back
+[13:26:17] [Server thread/INFO]: <UnaGeo> i got tons of food and enchanted a few things
+[13:26:21] [Server thread/INFO]: <dsuarez> sweet
+[13:31:23] [Server thread/WARN]: UnaGeo moved too quickly! 135.26535408252735,2.0,-221.55611589866575
+[13:37:20] [Server thread/INFO]: <dsuarez> damn im lost
+[13:37:28] [Server thread/WARN]: UnaGeo moved too quickly! -1967.8922958452617,-21.0,-10519.0
+[13:37:39] [Server thread/INFO]: <UnaGeo> i just got to the mesa
+[13:37:50] [Server thread/INFO]: <UnaGeo> areyou in a cave?
+[13:37:54] [Server thread/INFO]: <dsuarez> yuppers
+[13:39:32] [Server thread/INFO]: <UnaGeo> shoudl i try to come find you?
+[13:39:42] [Server thread/INFO]: <dsuarez> nah...only if you want
+[13:39:47] [Server thread/INFO]: <dsuarez> ill get out eventually
+[13:39:58] [Server thread/INFO]: <UnaGeo> ok - dont go dying on me
+[13:40:14] [Server thread/INFO]: <dsuarez> watermelons and potatos will keep me alie
+[13:43:41] [Server thread/INFO]: <dsuarez> yay! i found it
+[13:45:23] [Server thread/INFO]: <dsuarez> ive got 14 diamond
+[13:46:03] [Server thread/INFO]: <UnaGeo> nice
+[13:46:13] [Server thread/INFO]: <UnaGeo> hand em over
+[13:46:25] [Server thread/INFO]: <dsuarez> i'll certainly hand some over
+[13:46:33] [Server thread/INFO]: <UnaGeo> lol
+[13:46:45] [Server thread/INFO]: <UnaGeo> ive got over 100 steaks so if you want some
+[13:48:05] [Server thread/INFO]: <dsuarez> sweet
+[13:50:04] [Server thread/INFO]: <UnaGeo> i setup a little brewing area in the top floor
+[13:50:10] [Server thread/INFO]: <dsuarez> awesome
+[13:50:30] [Server thread/INFO]: <dsuarez> we can make a little farm for that plant near by
+[13:50:46] [Server thread/INFO]: <UnaGeo> ?
+[13:51:00] [Server thread/INFO]: <dsuarez> dont you need a plant from the nether for most potions?
+[13:51:09] [Server thread/INFO]: <UnaGeo> oh nether wart
+[13:51:11] [Server thread/INFO]: <dsuarez> yeah
+[13:51:16] [Server thread/INFO]: <UnaGeo> i brought 32, i didn't know you can grow it
+[13:51:19] [Server thread/INFO]: <UnaGeo> thats awe4some
+[13:51:24] [Server thread/INFO]: <dsuarez> yup
+[13:51:38] [Server thread/INFO]: <dsuarez> it needs soulsand though
+[13:51:42] [Server thread/INFO]: <UnaGeo> ah
+[13:51:49] [Server thread/INFO]: <UnaGeo> dang i meant to bring dirt
+[13:51:55] [Server thread/INFO]: <UnaGeo> i wanted to plant a bunch of trees around here
+[13:52:12] [Server thread/INFO]: <dsuarez> there might be some in my chests
+[13:52:42] [Server thread/INFO]: <UnaGeo> nope
+[13:52:51] [Server thread/INFO]: <UnaGeo> just diamonds, gold and other useful things lol
+[13:52:56] [Server thread/INFO]: <dsuarez> haha
+[13:53:22] [Server thread/INFO]: <dsuarez> you can take some diamond just dont go crazy with it
+[13:53:33] [Server thread/INFO]: <UnaGeo> im fine i have like 26
+[13:53:38] [Server thread/INFO]: <dsuarez> damn
+[13:58:24] [Server thread/INFO]: <dsuarez> fucking witch almost killed me
+[13:58:30] [Server thread/INFO]: <dsuarez> i went down to a half a heart
+[13:58:31] [Server thread/INFO]: <UnaGeo> they are the worst
+[13:59:37] [Server thread/INFO]: <UnaGeo> man i love acadia trees
+[13:59:49] [Server thread/INFO]: <dsuarez> yeah they're cool. the wood color is awesome too
+[14:04:36] [Server thread/INFO]: <UnaGeo> u coming back to the home here?
+[14:05:06] [Server thread/INFO]: <dsuarez> i keep wanting to but i keep finding more and more shit to mine
+[14:05:28] [Server thread/INFO]: <dsuarez> i can show you where i am if you're interested
+[14:05:42] [Server thread/INFO]: <UnaGeo> i am let me get into mine mode
+[14:06:41] [Server thread/INFO]: <UnaGeo> where should i meet you and do you need anything?
+[14:07:09] [Server thread/INFO]: <dsuarez> i dont need anything and go to the tree house thing
+[14:07:48] [Server thread/INFO]: <UnaGeo> rollin
+[14:08:31] [Server thread/INFO]: <UnaGeo> treehouse looks awesome when your roll up to it
+[14:08:39] [Server thread/INFO]: <dsuarez> agreed
+[14:08:59] [Server thread/INFO]: <UnaGeo> love the addition
+[14:09:10] [Server thread/INFO]: <dsuarez> yeah that roof was hard as shit too do
+[14:09:16] [Server thread/INFO]: <UnaGeo> swiss family fuckin' robinson over here
+[14:09:19] [Server thread/INFO]: <dsuarez> haha
+[14:10:21] [Server thread/INFO]: <UnaGeo> so now where
+[14:10:36] [Server thread/INFO]: <UnaGeo> thanks for keeping with the theme on with the trunks
+[14:10:40] [Server thread/INFO]: <UnaGeo> as the center of the floor
+[14:11:42] [Server thread/INFO]: <dsuarez> sorry its really far away
+[14:11:46] [Server thread/INFO]: <UnaGeo> jungle is packed with assholes
+[14:12:27] [Server thread/INFO]: <dsuarez> yeah the lgo idea looked really good
+[14:12:44] [Server thread/INFO]: <dsuarez> alright if you come downstairs i can take you there
+[14:13:43] [Server thread/INFO]: <UnaGeo> hold on
+[14:14:06] [Server thread/INFO]: <UnaGeo> where did you go lol
+[14:15:06] [Server thread/INFO]: <UnaGeo> yo here is a cow
+[14:15:11] [Server thread/INFO]: <dsuarez> yeah two more over here
+[14:15:25] [Server thread/INFO]: <UnaGeo> i was going to say breed em
+[14:15:28] [Server thread/INFO]: <dsuarez> meh
+[14:15:30] [Server thread/INFO]: <dsuarez> haha
+[14:15:35] [Server thread/INFO]: <UnaGeo> lol yeah
+[14:15:36] [Server thread/INFO]: <dsuarez> there'll be more
+[14:17:47] [Server thread/INFO]: <UnaGeo> jesus dude
+[14:17:49] [Server thread/INFO]: <dsuarez> this way
+[14:19:01] [Server thread/INFO]: <UnaGeo> cooking that chicken
+[14:21:12] [Server thread/INFO]: <dsuarez> waiting on my potatos
+[14:21:16] [Server thread/INFO]: <UnaGeo> you need a helmet
+[14:21:45] [Server thread/INFO]: <UnaGeo> my socks are almost done
+[14:21:50] [Server thread/INFO]: <UnaGeo> here want some bread?
+[14:21:54] [Server thread/INFO]: <UnaGeo> so we can go now
+[14:21:56] [Server thread/INFO]: <dsuarez> sure
+[14:22:06] [Server thread/INFO]: <dsuarez> its coming out of your mouth
+[14:22:07] [Server thread/INFO]: <dsuarez> haha
+[14:22:09] [Server thread/INFO]: <UnaGeo> lol
+[14:22:15] [Server thread/INFO]: <UnaGeo> vomit bread
+[14:22:39] [Server thread/INFO]: <dsuarez> i was kind of using sand blocks as bread crumbs
+[14:22:49] [Server thread/INFO]: <dsuarez> it may look like a lot has been explored but it just keeps going
+[14:22:50] [Server thread/INFO]: <UnaGeo> nice yeah wont be any down here
+[14:23:01] [Server thread/INFO]: <UnaGeo> ok ill follow you
+[14:23:42] [Server thread/INFO]: <dsuarez> so basically go nuts
+[14:29:48] [Server thread/INFO]: <UnaGeo> wooo hoooo diamonds already
+[14:30:01] [Server thread/INFO]: <dsuarez> see. and thats after ive already found a bunch
+[14:32:18] [Server thread/INFO]: <UnaGeo> damn
+[14:32:21] [Server thread/INFO]: <UnaGeo> i found a huge cave
+[14:33:22] [Server thread/INFO]: <dsuarez> yeha this thing is pretty crazy
+[14:33:41] [Server thread/INFO]: <UnaGeo> more diamonds and everything!
+[14:33:50] [Server thread/INFO]: <dsuarez> sweet!
+[14:34:25] [Server thread/INFO]: <UnaGeo> whoa fell into lava!
+[14:34:30] [Server thread/INFO]: <UnaGeo> luckily i had a bucket of water
+[14:34:32] [Server thread/INFO]: <dsuarez> dude
+[14:39:39] [Server thread/INFO]: <UnaGeo> stashed my findings in a room
+[14:39:40] [Server thread/INFO]: <UnaGeo> lol
+[14:39:45] [Server thread/INFO]: <dsuarez> ha ncie
+[14:39:49] [Server thread/INFO]: <dsuarez> probably a good idea
+[14:44:01] [Server thread/INFO]: <dsuarez> its crazy we have no idea where the other is now
+[14:44:06] [Server thread/INFO]: <UnaGeo> lol
+[14:44:11] [Server thread/INFO]: <UnaGeo> i am up to 17 diamonds
+[14:44:24] [Server thread/INFO]: <UnaGeo> i hear a witch so i am stashing everything
+[14:44:50] [Server thread/INFO]: <dsuarez> alright im about to sign off
+[14:44:55] [Server thread/INFO]: <UnaGeo> noooooooooooooooooooooooooooooooooooooo
+[14:45:01] [Server thread/INFO]: <dsuarez> do you need getting out? im not even sure i can make it back
+[14:45:10] [Server thread/INFO]: <UnaGeo> i should be fine, i can use coords
+[14:45:27] [Server thread/INFO]: <dsuarez> alright, them im going to go
+[14:45:42] [Server thread/INFO]: <UnaGeo> alright man enjoy
+[14:45:44] [Server thread/INFO]: <dsuarez> seeya
+[14:45:46] [Server thread/INFO]: dsuarez lost connection: Disconnected
+[14:45:46] [Server thread/INFO]: dsuarez left the game
+[14:45:46] [Server thread/INFO]: <UnaGeo> im going to explore a little more
+[14:54:59] [Server thread/INFO]: UnaGeo lost connection: Timed out
+[14:54:59] [Server thread/INFO]: UnaGeo left the game
+[19:29:44] [User Authenticator #17/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
+[19:29:44] [Server thread/INFO]: dsuarez[/192.168.0.113:59159] logged in with entity id 717964 at (-2515.300000011921, 32.0, -12725.699999988079)
+[19:29:44] [Server thread/INFO]: dsuarez joined the game
+[19:30:00] [Server thread/INFO]: dsuarez lost connection: Disconnected
+[19:30:00] [Server thread/INFO]: dsuarez left the game
+[19:30:45] [Server Shutdown Thread/INFO]: Stopping server
+[19:30:45] [Server Shutdown Thread/INFO]: Saving players
+[19:30:45] [Server Shutdown Thread/INFO]: Saving worlds
+[19:30:45] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[19:30:45] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[19:30:45] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
