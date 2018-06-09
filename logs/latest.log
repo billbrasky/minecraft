@@ -1,11 +1,28 @@
-[05:47:55] [User Authenticator #13/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
-[05:47:55] [Server thread/INFO]: dsuarez[/192.168.0.113:54531] logged in with entity id 215942 at (-2252.8268262548477, 88.0, -12018.297233218325)
-[05:47:55] [Server thread/INFO]: dsuarez joined the game
-[06:08:50] [Server thread/INFO]: dsuarez lost connection: Disconnected
-[06:08:50] [Server thread/INFO]: dsuarez left the game
-[08:30:36] [Server Shutdown Thread/INFO]: Stopping server
-[08:30:36] [Server Shutdown Thread/INFO]: Saving players
-[08:30:36] [Server Shutdown Thread/INFO]: Saving worlds
-[08:30:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[08:30:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[08:30:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[09:52:15] [User Authenticator #30/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
+[09:52:15] [Server thread/INFO]: dsuarez[/192.168.0.113:65215] logged in with entity id 613834 at (-732.8799919806455, 64.0, -12257.425824940154)
+[09:52:15] [Server thread/INFO]: dsuarez joined the game
+[09:54:19] [Server thread/INFO]: dsuarez lost connection: Disconnected
+[09:54:19] [Server thread/INFO]: dsuarez left the game
+[10:01:39] [User Authenticator #31/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
+[10:01:39] [Server thread/INFO]: dsuarez[/192.168.0.113:65271] logged in with entity id 615376 at (-719.5715457610205, 65.0, -12235.699999988079)
+[10:01:39] [Server thread/INFO]: dsuarez joined the game
+[10:24:48] [Server thread/INFO]: dsuarez lost connection: Disconnected
+[10:24:48] [Server thread/INFO]: dsuarez left the game
+[10:24:48] [Server thread/WARN]: Keeping entity minecraft:squid that already exists with UUID 9972d675-5f95-42f8-ae9b-5ee7bb8645a1
+[12:42:34] [User Authenticator #32/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
+[12:42:34] [Server thread/INFO]: dsuarez[/192.168.0.113:50507] logged in with entity id 631182 at (-704.3151189299056, 63.0, -12224.386136139126)
+[12:42:34] [Server thread/INFO]: dsuarez joined the game
+[12:42:35] [Server thread/WARN]: Keeping entity minecraft:squid that already exists with UUID 9972d675-5f95-42f8-ae9b-5ee7bb8645a1
+[13:07:37] [Server thread/INFO]: dsuarez lost connection: Disconnected
+[13:07:37] [Server thread/INFO]: dsuarez left the game
+[16:15:02] [User Authenticator #33/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
+[16:15:02] [Server thread/INFO]: dsuarez[/192.168.0.113:52344] logged in with entity id 650251 at (-793.5102755220975, 49.0, -12319.982796440612)
+[16:15:02] [Server thread/INFO]: dsuarez joined the game
+[16:31:23] [Server thread/INFO]: dsuarez lost connection: Disconnected
+[16:31:23] [Server thread/INFO]: dsuarez left the game
+[17:55:29] [Server Shutdown Thread/INFO]: Stopping server
+[17:55:29] [Server Shutdown Thread/INFO]: Saving players
+[17:55:29] [Server Shutdown Thread/INFO]: Saving worlds
+[17:55:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[17:55:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[17:55:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
