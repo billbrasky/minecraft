@@ -1,28 +1,24 @@
-[09:52:15] [User Authenticator #30/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
-[09:52:15] [Server thread/INFO]: dsuarez[/192.168.0.113:65215] logged in with entity id 613834 at (-732.8799919806455, 64.0, -12257.425824940154)
-[09:52:15] [Server thread/INFO]: dsuarez joined the game
-[09:54:19] [Server thread/INFO]: dsuarez lost connection: Disconnected
-[09:54:19] [Server thread/INFO]: dsuarez left the game
-[10:01:39] [User Authenticator #31/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
-[10:01:39] [Server thread/INFO]: dsuarez[/192.168.0.113:65271] logged in with entity id 615376 at (-719.5715457610205, 65.0, -12235.699999988079)
-[10:01:39] [Server thread/INFO]: dsuarez joined the game
-[10:24:48] [Server thread/INFO]: dsuarez lost connection: Disconnected
-[10:24:48] [Server thread/INFO]: dsuarez left the game
-[10:24:48] [Server thread/WARN]: Keeping entity minecraft:squid that already exists with UUID 9972d675-5f95-42f8-ae9b-5ee7bb8645a1
-[12:42:34] [User Authenticator #32/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
-[12:42:34] [Server thread/INFO]: dsuarez[/192.168.0.113:50507] logged in with entity id 631182 at (-704.3151189299056, 63.0, -12224.386136139126)
-[12:42:34] [Server thread/INFO]: dsuarez joined the game
-[12:42:35] [Server thread/WARN]: Keeping entity minecraft:squid that already exists with UUID 9972d675-5f95-42f8-ae9b-5ee7bb8645a1
-[13:07:37] [Server thread/INFO]: dsuarez lost connection: Disconnected
-[13:07:37] [Server thread/INFO]: dsuarez left the game
-[16:15:02] [User Authenticator #33/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
-[16:15:02] [Server thread/INFO]: dsuarez[/192.168.0.113:52344] logged in with entity id 650251 at (-793.5102755220975, 49.0, -12319.982796440612)
-[16:15:02] [Server thread/INFO]: dsuarez joined the game
-[16:31:23] [Server thread/INFO]: dsuarez lost connection: Disconnected
-[16:31:23] [Server thread/INFO]: dsuarez left the game
-[17:55:29] [Server Shutdown Thread/INFO]: Stopping server
-[17:55:29] [Server Shutdown Thread/INFO]: Saving players
-[17:55:29] [Server Shutdown Thread/INFO]: Saving worlds
-[17:55:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[17:55:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[17:55:29] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[06:13:51] [User Authenticator #19/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
+[06:13:51] [Server thread/INFO]: dsuarez[/192.168.0.113:56939] logged in with entity id 566028 at (-212.62115004725746, 96.0, -1510.5327145979388)
+[06:13:51] [Server thread/INFO]: dsuarez joined the game
+[06:23:03] [Server thread/WARN]: dsuarez moved too quickly! -658.7410722403865,8.0,-10734.114861831444
+[06:24:48] [Server thread/WARN]: dsuarez moved too quickly! 658.5699787498459,-8.0,10735.846383316173
+[06:35:13] [Server thread/WARN]: dsuarez moved too quickly! -1967.5802614049755,-21.0,-10519.0
+[06:35:54] [Server thread/WARN]: dsuarez moved too quickly! 1968.6878966307272,21.0,10519.0
+[06:48:20] [Server thread/WARN]: dsuarez moved too quickly! -658.8239774763538,8.0,-10735.185431037098
+[06:49:54] [Server thread/INFO]: dsuarez lost connection: Disconnected
+[06:49:54] [Server thread/INFO]: dsuarez left the game
+[20:16:24] [User Authenticator #20/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
+[20:16:24] [Server thread/INFO]: UnaGeo[/71.125.13.123:33622] logged in with entity id 575892 at (-2535.7835211797606, 89.5, -12134.502290100887)
+[20:16:24] [Server thread/INFO]: UnaGeo joined the game
+[21:37:17] [Server thread/INFO]: UnaGeo lost connection: Timed out
+[21:37:17] [Server thread/INFO]: UnaGeo left the game
+[21:39:33] [User Authenticator #21/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
+[21:39:33] [Server thread/INFO]: UnaGeo[/71.125.13.123:33642] logged in with entity id 610199 at (-2575.9156615603124, 100.0, -12217.636099846113)
+[21:39:33] [Server thread/INFO]: UnaGeo joined the game
+[22:07:55] [Server thread/WARN]: UnaGeo moved too quickly! 1968.3366151043683,21.0,10519.0
+[22:08:55] [Server thread/WARN]: UnaGeo moved too quickly! -658.7299666301308,8.0,-10735.494459268433
+[22:12:57] [Server thread/WARN]: UnaGeo moved too quickly! 658.8568009424981,-8.0,10736.139603328167
+[22:13:46] [Server thread/WARN]: UnaGeo moved too quickly! -1967.7032898944271,-21.0,-10519.0
+[22:19:53] [Server thread/INFO]: UnaGeo lost connection: Timed out
+[22:19:53] [Server thread/INFO]: UnaGeo left the game
