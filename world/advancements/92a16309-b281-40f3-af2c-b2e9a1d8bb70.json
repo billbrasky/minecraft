@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2018-06-13 21:38:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2018-05-04 21:32:41 -0400"
@@ -98,6 +104,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2018-05-13 06:53:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2018-06-16 10:28:41 -0400"
     },
     "done": true
   },
@@ -432,6 +444,7 @@
       "baked_potato": "2018-05-29 17:47:46 -0400",
       "apple": "2018-05-04 21:43:14 -0400",
       "spider_eye": "2018-06-01 21:18:40 -0400",
+      "potato": "2018-06-13 19:51:24 -0400",
       "cooked_cod": "2018-06-04 20:35:42 -0400",
       "melon": "2018-06-02 10:25:01 -0400",
       "bread": "2018-05-04 21:24:52 -0400",
@@ -447,6 +460,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2018-05-04 21:32:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2018-06-16 10:33:27 -0400"
     },
     "done": true
   },
@@ -945,6 +964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2018-06-16 10:33:27 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-05-20 23:33:44 -0400"
@@ -958,6 +983,7 @@
       "slime": "2018-06-10 09:08:51 -0400",
       "skeleton": "2018-05-05 22:54:27 -0400",
       "husk": "2018-05-04 21:28:10 -0400",
+      "blaze": "2018-06-16 14:05:28 -0400",
       "zombie": "2018-05-05 20:47:27 -0400",
       "cave_spider": "2018-05-27 12:09:28 -0400",
       "witch": "2018-05-28 12:49:00 -0400",
@@ -983,6 +1009,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2018-05-18 21:24:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2018-06-16 09:06:50 -0400"
     },
     "done": true
   },
@@ -1154,6 +1186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2018-06-16 14:05:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-05-13 06:32:43 -0400"
@@ -1229,6 +1267,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-05-20 23:33:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2018-06-16 10:26:25 -0400"
     },
     "done": true
   },
@@ -1379,6 +1423,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2018-05-27 11:51:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_the_recipe": "2018-06-13 21:38:17 -0400"
     },
     "done": true
   },
@@ -1550,6 +1600,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2018-06-16 09:27:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2018-06-16 14:05:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2018-05-17 21:17:13 -0400"
@@ -1607,6 +1669,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2018-05-28 15:17:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2018-06-16 14:05:44 -0400"
     },
     "done": true
   },
@@ -1677,6 +1745,12 @@
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2018-05-27 11:51:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2018-06-16 10:28:41 -0400"
     },
     "done": true
   },
@@ -1848,6 +1922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2018-06-16 10:28:41 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lit_pumpkin": {
     "criteria": {
       "has_pumpkin": "2018-06-08 21:24:49 -0400"
@@ -1923,6 +2003,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2018-05-27 11:51:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2018-06-16 09:13:19 -0400"
     },
     "done": true
   },

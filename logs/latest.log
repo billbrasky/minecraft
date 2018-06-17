@@ -1,24 +1,6 @@
-[06:13:51] [User Authenticator #19/INFO]: UUID of player dsuarez is 92a16309-b281-40f3-af2c-b2e9a1d8bb70
-[06:13:51] [Server thread/INFO]: dsuarez[/192.168.0.113:56939] logged in with entity id 566028 at (-212.62115004725746, 96.0, -1510.5327145979388)
-[06:13:51] [Server thread/INFO]: dsuarez joined the game
-[06:23:03] [Server thread/WARN]: dsuarez moved too quickly! -658.7410722403865,8.0,-10734.114861831444
-[06:24:48] [Server thread/WARN]: dsuarez moved too quickly! 658.5699787498459,-8.0,10735.846383316173
-[06:35:13] [Server thread/WARN]: dsuarez moved too quickly! -1967.5802614049755,-21.0,-10519.0
-[06:35:54] [Server thread/WARN]: dsuarez moved too quickly! 1968.6878966307272,21.0,10519.0
-[06:48:20] [Server thread/WARN]: dsuarez moved too quickly! -658.8239774763538,8.0,-10735.185431037098
-[06:49:54] [Server thread/INFO]: dsuarez lost connection: Disconnected
-[06:49:54] [Server thread/INFO]: dsuarez left the game
-[20:16:24] [User Authenticator #20/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[20:16:24] [Server thread/INFO]: UnaGeo[/71.125.13.123:33622] logged in with entity id 575892 at (-2535.7835211797606, 89.5, -12134.502290100887)
-[20:16:24] [Server thread/INFO]: UnaGeo joined the game
-[21:37:17] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[21:37:17] [Server thread/INFO]: UnaGeo left the game
-[21:39:33] [User Authenticator #21/INFO]: UUID of player UnaGeo is b1016435-0da1-4b1e-b42a-8b7cdf5c7472
-[21:39:33] [Server thread/INFO]: UnaGeo[/71.125.13.123:33642] logged in with entity id 610199 at (-2575.9156615603124, 100.0, -12217.636099846113)
-[21:39:33] [Server thread/INFO]: UnaGeo joined the game
-[22:07:55] [Server thread/WARN]: UnaGeo moved too quickly! 1968.3366151043683,21.0,10519.0
-[22:08:55] [Server thread/WARN]: UnaGeo moved too quickly! -658.7299666301308,8.0,-10735.494459268433
-[22:12:57] [Server thread/WARN]: UnaGeo moved too quickly! 658.8568009424981,-8.0,10736.139603328167
-[22:13:46] [Server thread/WARN]: UnaGeo moved too quickly! -1967.7032898944271,-21.0,-10519.0
-[22:19:53] [Server thread/INFO]: UnaGeo lost connection: Timed out
-[22:19:53] [Server thread/INFO]: UnaGeo left the game
+[10:26:23] [Server Shutdown Thread/INFO]: Stopping server
+[10:26:23] [Server Shutdown Thread/INFO]: Saving players
+[10:26:23] [Server Shutdown Thread/INFO]: Saving worlds
+[10:26:23] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[10:26:23] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[10:26:23] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
